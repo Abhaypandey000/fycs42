@@ -1,2 +1,3 @@
 # fycs42
-print("Hello ji")
+print("Hello ji")       
+cout>>bye;
